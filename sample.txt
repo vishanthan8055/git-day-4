@@ -1,0 +1,2 @@
+Hi this is sample text file 
+which i am currently learning advanced git topics
